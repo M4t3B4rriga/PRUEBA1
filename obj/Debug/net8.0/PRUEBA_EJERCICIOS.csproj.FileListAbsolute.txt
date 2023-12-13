@@ -1,0 +1,14 @@
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\bin\Debug\net8.0\PRUEBA_EJERCICIOS.exe
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\bin\Debug\net8.0\PRUEBA_EJERCICIOS.deps.json
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\bin\Debug\net8.0\PRUEBA_EJERCICIOS.runtimeconfig.json
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\bin\Debug\net8.0\PRUEBA_EJERCICIOS.dll
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\bin\Debug\net8.0\PRUEBA_EJERCICIOS.pdb
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\PRUEBA_EJERCICIOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\PRUEBA_EJERCICIOS.AssemblyInfoInputs.cache
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\PRUEBA_EJERCICIOS.AssemblyInfo.cs
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\PRUEBA_EJERCICIOS.csproj.CoreCompileInputs.cache
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\PRUEBA_EJERCICIOS.dll
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\refint\PRUEBA_EJERCICIOS.dll
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\PRUEBA_EJERCICIOS.pdb
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\PRUEBA_EJERCICIOS.genruntimeconfig.cache
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\PRUEBA_EJERCICIOS\obj\Debug\net8.0\ref\PRUEBA_EJERCICIOS.dll
